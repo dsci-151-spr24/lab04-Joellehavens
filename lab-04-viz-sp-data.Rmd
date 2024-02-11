@@ -102,7 +102,7 @@ Each row represents the data for one denny's restaurant. The variables are:
     What are the variables?
 
 There are `r nrow(laquinta)` rows and `r ncol(laquinta)` columns.
-Each row represents the data for one denny's restaurant. The variables are:
+Each row represents the data for one La Quintas Inn. The variables are:
 `r names(laquinta)`. 
 
 🧶 ✅ ⬆️ Knit, *commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
